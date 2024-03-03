@@ -1,4 +1,4 @@
-# Responsive Login Form
+# Login Form
 
 This code snippet provides a responsive login form implemented with HTML and CSS. It features a modern design with a blurred background image, input fields with icons, remember me checkbox, and a login button. The form is designed to be visually appealing and user-friendly.
 
